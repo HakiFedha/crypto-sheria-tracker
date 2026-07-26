@@ -243,10 +243,8 @@ Related resources:
   https://github.com/HakiFedha/africa-financial-tyranny-index
 
 - **Africa Bitcoin Remittance and Off-Ramp Directory**  
-  A practical directory documenting Bitcoin access, remittance, and off-ramp options across African countries: 
-  https://hakifedha.org/tools/remittance-directory
-
-  ---
+A practical directory documenting Bitcoin access, remittance, and off-ramp options across African countries: 
+<span style="font-weight: normal;"><a href="https://github.com/HakiFedha/africa-bitcoin-local-currency-offramp-directory">https://github.com/HakiFedha/africa-bitcoin-local-currency-offramp-directory</a></span>
 
 # Contributions
 
