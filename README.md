@@ -239,7 +239,7 @@ Related resources:
 
 - **Africa Financial Tyranny Tracker (AFTT)**  
   Documents verified incidents of financial repression affecting civil society actors across Africa:  
- (https://github.com/HakiFedha/africa-financial-tyranny-tracker
+https://github.com/HakiFedha/africa-financial-tyranny-tracker
 
 - **Africa Bitcoin Remittance and Off-Ramp Directory**  
   A practical directory documenting Bitcoin access, remittance, and off-ramp options across African countries:  
