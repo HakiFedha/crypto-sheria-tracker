@@ -1,4 +1,4 @@
-# Sheria Index: Africa Bitcoin and Digital Assets Regulatory Frameworks
+# Crypto Sheria Tracker: Africa Bitcoin and Digital Assets Regulatory Frameworks
 
 **Methodology and Framework**  
 **Version 1.0 | July 2026**
@@ -9,11 +9,11 @@
 
 *Sheria* means **law** in Swahili.
 
-The Sheria Index is a companion research project to the Africa Financial Tyranny Index (AFTI), maintained by HakiFedha as part of its commitment to producing open, freely available research that helps civil society actors across Africa understand and navigate the financial and legal environments in which they operate.
+The Crypto Sheria Tracker is a companion research project to the Africa Financial Tyranny Index (AFTI), maintained by HakiFedha as part of its commitment to producing open, freely available research that helps civil society actors across Africa understand and navigate the financial and legal environments in which they operate.
 
 > **📌 Project Status: Beta / Work in Progress**
 >
-> The Sheria Index is actively expanding. The initial data repository is undergoing continuous verification as regulatory landscapes shift across the continent. We are systematically updating country entries, and community contributions or verified regional corrections are highly encouraged.
+> The Crypto Sheria Tracker is actively expanding. The initial data repository is undergoing continuous verification as regulatory landscapes shift across the continent. We are systematically updating country entries, and community contributions or verified regional corrections are highly encouraged.
 
 ---
 
@@ -21,13 +21,13 @@ The Sheria Index is a companion research project to the Africa Financial Tyranny
 
 The latest dataset is available as:
 
-- **CSV:** https://github.com/HakiFedha/sheria-index/blob/main/data/sheria_index.csv
+- **CSV:** https://github.com/HakiFedha/crypto-sheria-tracker/blob/main/data/crypto_sheria_tracker.csv
 
 ---
 
 # Purpose
 
-The Sheria Index tracks the regulatory status of Bitcoin and digital assets across Africa.
+The Crypto Sheria Tracker tracks the regulatory status of Bitcoin and digital assets across Africa.
 
 It is designed to answer a question that existing regulatory trackers do not:
 
@@ -45,13 +45,13 @@ This includes:
 
 Most existing crypto regulatory analysis is produced for exchanges, institutional investors, or legal compliance teams.
 
-The Sheria Index is produced for people for whom Bitcoin is not primarily a financial opportunity, but a tool of financial sovereignty, operational continuity, and resistance to censorship.
+The Crypto Sheria Tracker is produced for people for whom Bitcoin is not primarily a financial opportunity, but a tool of financial sovereignty, operational continuity, and resistance to censorship.
 
 ---
 
 # Methodology Principles
 
-The Sheria Index follows five core research principles:
+The Crypto Sheria Tracker follows five core research principles:
 
 ### Evidence-Based
 
@@ -67,7 +67,7 @@ The methodology, data fields, classification framework, and sources are publicly
 
 ### Transparent
 
-The Sheria Index distinguishes between what laws formally state, how regulators interpret those laws, and how enforcement occurs in practice.
+The Crypto Sheria Tracker distinguishes between what laws formally state, how regulators interpret those laws, and how enforcement occurs in practice.
 
 ### Continuously Updated
 
@@ -85,7 +85,7 @@ African regulatory frameworks generally govern **digital assets** broadly, using
 
 Bitcoin is rarely singled out in legislation as its own legal category.
 
-The Sheria Index documents the regulatory landscape as governments have defined and legislated it while analysing the implications specifically through a Bitcoin lens, consistent with HakiFedha's mission and scope.
+The Crypto Sheria Tracker documents the regulatory landscape as governments have defined and legislated it while analysing the implications specifically through a Bitcoin lens, consistent with HakiFedha's mission and scope.
 
 We maintain that Bitcoin is fundamentally different from the broader digital asset category because it possesses unique properties including:
 
@@ -104,7 +104,7 @@ Where regulations apply broadly to digital assets, we assess their practical imp
 
 # Scope
 
-The Sheria Index covers:
+The Crypto Sheria Tracker covers:
 
 - legal status of Bitcoin and digital assets
 - regulatory classification
@@ -120,7 +120,7 @@ The Sheria Index covers:
 - enforcement notes
 - supporting sources
 
-The index does **not** provide:
+The tracker does **not** provide:
 
 - investment advice
 - exchange-specific compliance guidance
@@ -193,7 +193,7 @@ The following are **not** accepted as primary evidence:
 
 Many African countries have no comprehensive digital asset legislation.
 
-Rather than assuming Bitcoin is either legal or prohibited, the Sheria Index records the absence of a legal framework as a finding in itself.
+Rather than assuming Bitcoin is either legal or prohibited, the Crypto Sheria Tracker records the absence of a legal framework as a finding in itself.
 
 We distinguish between:
 
@@ -205,13 +205,13 @@ We distinguish between:
 | Partial recognition | Certain activities (such as taxation) recognised without comprehensive regulation |
 | Legal, regulated | Comprehensive legal framework exists |
 
-Where law and enforcement differ significantly, the Sheria Index documents both.
+Where law and enforcement differ significantly, the Crypto Sheria Tracker documents both.
 
 ---
 
 # Update Cycle
 
-The Sheria Index is updated on a rolling basis as regulatory developments occur.
+The Crypto Sheria Tracker is updated on a rolling basis as regulatory developments occur.
 
 Each country entry includes a **last_updated** field.
 
@@ -221,34 +221,33 @@ A formal version release is published whenever **five or more country entries** 
 
 # Limitations
 
-The Sheria Index is intended for research and educational purposes.
+The Crypto Sheria Tracker is intended for research and educational purposes.
 
 It is **not legal advice**.
 
 African regulatory environments evolve rapidly, and some jurisdictions have limited publicly available documentation.
 
-Users should verify the current legal position before relying on this index for operational decisions and seek qualified legal advice where appropriate.
+Users should verify the current legal position before relying on this tracker for operational decisions and seek qualified legal advice where appropriate.
 
 ---
 
-
 # Related Resources
 
-The Sheria Index is part of HakiFedha's broader open research ecosystem focused on Bitcoin, financial freedom, privacy, and civil society resilience.
+The Crypto Sheria Tracker is part of HakiFedha's broader open research ecosystem focused on Bitcoin, financial freedom, privacy, and civil society resilience.
 
 Related resources:
 
 - **Africa Financial Tyranny Index (AFTI)**  
-  Documents verified incidents of financial repression affecting civil society actors across Africa: 
+  Documents verified incidents of financial repression affecting civil society actors across Africa:  
   https://github.com/HakiFedha/africa-financial-tyranny-index
 
 - **Africa Bitcoin Remittance and Off-Ramp Directory**  
-A practical directory documenting Bitcoin access, remittance, and off-ramp options across African countries: 
-<span style="font-weight: normal;"><a href="https://github.com/HakiFedha/africa-bitcoin-local-currency-offramp-directory">https://github.com/HakiFedha/africa-bitcoin-local-currency-offramp-directory</a></span>
+  A practical directory documenting Bitcoin access, remittance, and off-ramp options across African countries:  
+  https://github.com/HakiFedha/africa-bitcoin-local-currency-offramp-directory
 
 # Contributions
 
-The Sheria Index is published under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence.
+The Crypto Sheria Tracker is published under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence.
 
 Contributions, corrections, and verified updates are welcome.
 
