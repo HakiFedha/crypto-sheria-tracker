@@ -237,9 +237,9 @@ The Crypto Sheria Tracker is part of HakiFedha's broader open research ecosystem
 
 Related resources:
 
-- **Africa Financial Tyranny Index (AFTI)**  
+- **Africa Financial Tyranny Tracker (AFTT)**  
   Documents verified incidents of financial repression affecting civil society actors across Africa:  
-  https://github.com/HakiFedha/africa-financial-tyranny-index
+ (https://github.com/HakiFedha/africa-financial-tyranny-tracker
 
 - **Africa Bitcoin Remittance and Off-Ramp Directory**  
   A practical directory documenting Bitcoin access, remittance, and off-ramp options across African countries:  
