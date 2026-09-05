@@ -21,6 +21,7 @@ The Crypto Sheria Tracker is a companion research project to the Africa Financia
 
 The latest dataset is available as:
 
+* **Web:** [Browse the live, interactive tracker](https://lipa.hakifedha.org/)
 - **CSV:** https://github.com/HakiFedha/sheria-index/blob/main/tracker.csv
 
 ---
